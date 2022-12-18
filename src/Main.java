@@ -8,6 +8,6 @@ public class Main {
         FeatureSun xxx=new FeatureSun();
         xxx.Heat="1233444";
         xxx.size=73282;
-        xxx.Temp="#@@#";
+        xxx.Temp=10999;
     }
 }
