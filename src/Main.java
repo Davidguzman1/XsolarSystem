@@ -4,5 +4,10 @@ public class Main {
         xx.moon=8;
     xx.sun=8;
         xx.mars=9;
+
+        FeatureSun xxx=new FeatureSun();
+        xxx.Heat="1233444";
+        xxx.size=73282;
+        xxx.Temp="#@@#";
     }
 }
